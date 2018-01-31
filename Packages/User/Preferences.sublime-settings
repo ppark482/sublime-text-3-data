@@ -1,0 +1,75 @@
+{
+	"added_words":
+	[
+		"workflow",
+		"Disqus",
+		"authoravatar",
+		"jpg",
+		"nameservers",
+		"facebook",
+		"app",
+		"diyz",
+		"json",
+		"html",
+		"subroute",
+		"websockets",
+		"Blog",
+		"Blogging",
+		"env",
+		"devs",
+		"ajax",
+		"internet",
+		"melatonin",
+		"stressors",
+		"behaviour",
+		"apps"
+	],
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"draw_minimap_border": true,
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Checkboxes",
+		"Tealium",
+		"Workflow",
+		"daterange",
+		"https",
+		"prochat",
+		"scattershot",
+		"viewport",
+		"viewports"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_files": false,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"on_load_user":
+	[
+		{
+			"args":
+			{
+				"level": 4
+			},
+			"command": "fold_by_level"
+		}
+	],
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": "true",
+	"show_definitions": false,
+	"spell_check": true,
+	"theme": "ayu-light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_wide_scrollbars": true,
+	"word_wrap": "true",
+	"wrap_width": 80
+}

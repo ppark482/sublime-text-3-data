@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+-webkit-${1}: ${2};
+-moz-${1}: ${2};
+-o-${1}: ${2};
+-ms-${1}: ${2};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>webkit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

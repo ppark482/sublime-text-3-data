@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"Auto Fold",
+		"ayu",
+		"Babel",
+		"Case Conversion",
+		"ChangeQuotes",
+		"Console Wrap",
+		"EditorConfig",
+		"Ethereum",
+		"GitGutter",
+		"Hooks",
+		"Jade",
+		"JSHint Gutter",
+		"Markdown Extended",
+		"Markmon real-time markdown preview",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"Random Everything",
+		"Sass",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"Stylus",
+		"Swift",
+		"TOML"
+	]
+}

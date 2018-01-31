@@ -1,0 +1,20 @@
+// Console Wrap Key Bindings - User
+[
+
+	{ 
+		"keys": ["super+`"], 
+		"command": "console_wrap",
+		"args": {"insert_before": false}
+	},
+	{ 
+		"keys": ["super+alt+`"], 
+		"command": "console_wrap",
+		"args": {"insert_before": true}
+	},
+	{ 
+		"keys": ["super+shift+v"],
+		"command": "paste" },
+	{ 
+		"keys": ["super+v"],
+		"command": "paste_and_indent" },
+]
